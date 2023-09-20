@@ -1,2 +1,2 @@
-### Advanced%20data%20analysis 자료
+### Advanced_data_analysis 자료
 
