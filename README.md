@@ -1,7 +1,8 @@
 # GenAI_Project_Manage
 ---
 
-<img src = "https://github.com/koreatechbigdatalab/GenAI_Project_Manage/issues/1#issue-1904000756" width="80%">
+<img src = "![KBL로고](https://github.com/koreatechbigdatalab/GenAI_Project_Manage/assets/139958321/cccba754-33fb-40a1-b417-4824d0f0b616)
+" width="80%">
 
 ---
 
