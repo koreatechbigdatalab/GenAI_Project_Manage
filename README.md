@@ -7,7 +7,7 @@
 
 폴더           | 내용
 :------------- |:-------------
-[Data](https://github.com/koreatechbigdatalab/GenAI_Project_Manage/tree/main/Advanced%20data%20analysis) | 실습 데이터 파일
+[Data](https://github.com/koreatechbigdatalab/GenAI_Project_Manage/tree/main/Advanced_Data_Analysis_data) | 실습 데이터 파일
 [Lecture] | 강의용 프리젠테이션 자료
 
 ---
